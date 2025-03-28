@@ -42,7 +42,6 @@ https://github.com/SpeakerLive/TetrisWithPhysics
 ## ✅ Requirements
 
 - Unity 6 - 6000.0.42f1
-- Input System package (new Unity Input System)
 - Visual Studio or Rider (recommended)
 
 ---
