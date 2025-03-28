@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02ffbfd2-87d0-1adb-c7fe-6538a965a290}</ProjectGuid>
+    <ProjectGuid>{be7d25e5-ba13-8ef3-3fbb-93698b191ff8}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -448,16 +448,16 @@
       <HintPath>D:\Unity\6000.0.42f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>D:\Unity Projects\Tetris\Library\PackageCache\com.unity.collections@56bff8827a7e\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\PackageCache\com.unity.collections@56bff8827a7e\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\Unity Projects\Tetris\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>D:\Unity Projects\Tetris\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:\Unity\6000.0.42f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -826,190 +826,190 @@
       <HintPath>D:\Unity\6000.0.42f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PPv2URPConverters">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>D:\Unity Projects\Tetris\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
+      <HintPath>D:\GitHubUnity\TetrisWithPhysics\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InputSystem.ForUI.csproj">
-      <Project>{bab065d8-07dd-9ada-404a-1a25fcb01c13}</Project>
+      <Project>{6a2a6588-fe4e-2372-694f-d5be379fd04a}</Project>
       <Name>Unity.InputSystem.ForUI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{d0aa3f5f-1005-aba2-e3c3-1d23162ca2b7}</Project>
+      <Project>{6d0cfca5-6dfd-5c48-4764-957efd510fbd}</Project>
       <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{79d3fdc4-227c-0aa2-4963-54a896d1d4a4}</Project>
+      <Project>{92a8bdf1-b569-4bda-a4d7-760361b0956e}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.csproj">
-      <Project>{c6b7adc6-86e9-c1a4-5b03-4bc75fc874a7}</Project>
+      <Project>{686c77cd-4cfc-5df3-834c-a1fe36eb2652}</Project>
       <Name>Unity.AI.Navigation</Name>
     </ProjectReference>
     <ProjectReference Include="Tetris.Scriptables.csproj">
-      <Project>{4d70679b-4df5-87d0-9b8c-afd72f64f701}</Project>
+      <Project>{5e771d99-ffbd-5b99-8e2f-4204137ef966}</Project>
       <Name>Tetris.Scriptables</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{d9b80e81-9564-59bf-7546-1ec145a43a9f}</Project>
+      <Project>{443c667e-60f9-292e-6983-6d546179ba8f}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{3baf326f-f7fc-fd30-3bf6-3a587ec98004}</Project>
+      <Project>{91499200-145a-9f21-d2e1-1d4f5103ca71}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{291f9827-575b-2321-3870-c9cbfc8d51cf}</Project>
+      <Project>{759d443b-9591-e21e-ffb2-f7422269491c}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{9c7ae0ae-18e1-b2ed-633f-82d3b8121596}</Project>
+      <Project>{4e006708-5ab3-510a-a6e4-4528f377053d}</Project>
       <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{45e9c016-4b44-947f-adcb-b33164845517}</Project>
+      <Project>{95d0ce9e-0f2d-cddf-7983-e049cf5d3f85}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{02f32574-2c77-95e9-4327-8d413b36ce8c}</Project>
+      <Project>{7b54bc2c-a6b0-4ba5-ab08-b825597dd48c}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.Editor.csproj">
-      <Project>{021dc4e1-7923-6056-fc0f-72593987abfb}</Project>
+      <Project>{46e91f20-5dbb-cd6d-3248-82320292f09b}</Project>
       <Name>Unity.Collections.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{81c60137-882c-3cda-f56b-17daff6f29d1}</Project>
+      <Project>{d6a15015-c494-25b2-ee44-66957e82a0ce}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
-      <Project>{6639dc08-cd94-e469-2e38-eb0e3c4eb08d}</Project>
+      <Project>{e58cc997-f32c-e20c-4754-20128564f259}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
-      <Project>{0263b390-5b89-af6b-1658-07024d16c607}</Project>
+      <Project>{ee702498-d446-c0bd-b08b-5827cffba393}</Project>
       <Name>Unity.AI.Navigation.Updater</Name>
     </ProjectReference>
     <ProjectReference Include="Tetris.GameLogic.csproj">
-      <Project>{88c4cca5-9cc6-9e61-7599-691a57ece9a5}</Project>
+      <Project>{db854a9e-5053-acbd-807b-0db86ce8786d}</Project>
       <Name>Tetris.GameLogic</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
-      <Project>{c787012c-97fb-d71b-a5c0-ded370ae5d3d}</Project>
+      <Project>{4a3d1006-d1a7-ccd9-14fc-c9a1aa68e5e8}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
-      <Project>{b5b589e4-949f-1392-33bb-2b470255515d}</Project>
+      <Project>{f1a5d829-2e94-fc19-bcee-6a01716cf1f0}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
-      <Project>{382320db-30cb-ad79-50ce-6f1f6e2d7f44}</Project>
+      <Project>{f84c030d-9fc4-a06d-1ff8-eecbb2c8d382}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
-      <Project>{b6d99b17-f897-ca3b-67f6-51ee6711748e}</Project>
+      <Project>{3436737e-9fe8-cefe-0d62-dbcadbe78078}</Project>
       <Name>Unity.AI.Navigation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{31faf738-efce-5abe-c271-660c7c76348f}</Project>
+      <Project>{6f1ce201-75c2-4ac5-0e15-e2e8f51b7d95}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
-      <Project>{e4507ddd-049e-ea28-1be2-7bfa2b9ac702}</Project>
+      <Project>{9fa20e05-159f-8a64-fe88-640317577844}</Project>
       <Name>Unity.VisualScripting.State</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
-      <Project>{9b2b2a92-5e36-379a-f699-10850825ba09}</Project>
+      <Project>{ba822c36-6a1b-5183-4979-a8770dc1e570}</Project>
       <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{32de5dad-0751-400c-d99d-eb7899d2663d}</Project>
+      <Project>{b5e80153-a58c-85e1-ff8a-176eed79f06b}</Project>
       <Name>Unity.Burst.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{652e988d-e48a-afc6-8ff9-3f65fe499a14}</Project>
+      <Project>{2553ce08-c5e0-2478-3fcd-bc17ecce78c9}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{b4d3d98e-ed7a-bdd1-3a71-c69e9d0d70d6}</Project>
+      <Project>{f5d9d33d-dfb8-64d6-9f57-19beb349d194}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Tetris.Presentation.csproj">
-      <Project>{8061bff9-c052-3aa7-3be2-e1d984668893}</Project>
+      <Project>{8f548bdf-292c-918c-526b-097155793163}</Project>
       <Name>Tetris.Presentation</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{4c4baf5f-ac75-5249-f9f0-85a55e2079d1}</Project>
+      <Project>{ad78240a-8dae-48c7-7c88-a334298f7106}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{350ca887-6649-4fdd-f7f3-f683c456e021}</Project>
+      <Project>{69f94776-8cbb-97ce-4766-543b7a34a045}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
   </ItemGroup>
