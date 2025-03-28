@@ -1,0 +1,17 @@
+{
+    "name": "Tetris.GameLogic",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Tetris.Scriptables"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

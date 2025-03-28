@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792fe21bc6d68ab43bfcd1366b60e151, type: 3}
+  m_Name: SO_Tetromino_Cube_Shape
+  m_EditorClassIdentifier: 
+  _tetrominoPrefab: {fileID: 2647106818282856170, guid: adb60a9303e00164c9cfdfc837e4c626, type: 3}
+  _tetrominoImage: {fileID: 2800000, guid: 1368d023bf983a543a73b9e0ef48c879, type: 3}

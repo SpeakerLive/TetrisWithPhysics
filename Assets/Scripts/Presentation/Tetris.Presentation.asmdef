@@ -1,0 +1,19 @@
+{
+    "name": "Tetris.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "Tetris.GameLogic",
+        "Tetris.Scriptables",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
