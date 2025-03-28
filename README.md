@@ -31,7 +31,7 @@ This is a simple **2-player Tetris** but every block is moved with physics.
 https://github.com/SpeakerLive/TetrisWithPhysics
 
 2. Open the project using **Unity 6** version 6000.0.42f1 (or compatible version).
-3. Open the main scenes and press **Play**.
+3. Open the GameLogicScene in Scenes folder and press **Play**.
 
 ## 💡 Notes
 
