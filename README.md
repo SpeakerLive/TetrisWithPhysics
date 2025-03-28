@@ -2,7 +2,7 @@
 
 This is a simple **2-player Tetris** but every block is moved with physics.
 
-![Gameplay](Assets/Gifs/gameplay.gif)
+![Gameplay](Assets/Gifs/Tetris_Gif.gif)
 
 ## ✨ Features
 
