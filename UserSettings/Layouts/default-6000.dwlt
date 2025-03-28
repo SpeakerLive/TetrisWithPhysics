@@ -404,8 +404,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 87
+    x: 0
+    y: 24
     width: 978
     height: 830
   m_SerializedDataModeController:
@@ -505,8 +505,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 987
-    y: 87
+    x: 980
+    y: 24
     width: 594
     height: 830
   m_SerializedDataModeController:
@@ -1057,11 +1057,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.07008507, y: -0.036804, z: -0.0025873696, w: -0.99686104}
     speed: 2
-    m_Value: {x: 0.06858953, y: -0.03680775, z: -0.0025321539, w: -0.99696255}
+    m_Value: {x: 0.07008507, y: -0.036804, z: -0.0025873694, w: -0.99686104}
   m_Size:
     m_Target: 278.81824
     speed: 2
-    m_Value: 266.8117
+    m_Value: 278.81824
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1116,8 +1116,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1583
-    y: 87
+    x: 1576
+    y: 24
     width: 471
     height: 830
   m_SerializedDataModeController:
@@ -1134,23 +1134,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e045ffff
-      m_LastClickedID: -47648
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 7050ffff3451ffff8e58ffffdadc000008dd000012dd0000b6dd0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: PlayerOneNameCanvas
-        m_OriginalName: PlayerOneNameCanvas
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 56784
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 10}
@@ -1182,8 +1182,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 943
+    x: 0
+    y: 24
     width: 953
     height: 403
   m_SerializedDataModeController:
@@ -1218,8 +1218,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Unity.PlasticSCM.Editor.PlasticWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 962
-    y: 943
+    x: 955
+    y: 24
     width: 457
     height: 403
   m_SerializedDataModeController:
@@ -1255,8 +1255,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1421
-    y: 943
+    x: 1414
+    y: 24
     width: 633
     height: 403
   m_SerializedDataModeController:
@@ -1300,7 +1300,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: bedb0000
     m_LastClickedID: 56254
-    m_ExpandedIDs: 00000000b4db000000ca9a3b
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1329,7 +1329,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1408,8 +1408,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 2056
-    y: 87
+    x: 2049
+    y: 24
     width: 495
     height: 1259
   m_SerializedDataModeController:
