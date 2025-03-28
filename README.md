@@ -33,6 +33,14 @@ https://github.com/SpeakerLive/TetrisWithPhysics
 2. Open the project using **Unity 6** version 6000.0.42f1 (or compatible version).
 3. Open the GameLogicScene in Scenes folder and press **Play**.
 
+## 🎮 Controls
+
+| Action        | Player 1 | Player 2 |
+|---------------|----------|----------|
+| Move Left     | A        | Left Arrow  |
+| Move Right    | D        | Right Arrow |
+| Move Down     | S        | Down Arrow  |
+
 ## 💡 Notes
 
 - This project focuses on structure and code quality rather than content.
