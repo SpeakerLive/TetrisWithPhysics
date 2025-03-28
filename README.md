@@ -40,6 +40,7 @@ https://github.com/SpeakerLive/TetrisWithPhysics
 | Move Left     | A        | Left Arrow  |
 | Move Right    | D        | Right Arrow |
 | Move Down     | S        | Down Arrow  |
+| Rotate        | R        | P           |
 
 ## 💡 Notes
 
